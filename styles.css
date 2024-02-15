@@ -317,7 +317,7 @@ p {
         width: 100%;
     }
 
-    .menu:checked~.navbar {
+    #menu:checked~.navbar {
         display: initial;
     }
 
